@@ -247,9 +247,9 @@ run = client.pipelines.run(
 
 APIに関する質問やサポートが必要な場合は、以下の方法でお問い合わせください：
 
-- 開発者フォーラム: https://community.pipe.dev
-- サポートメール: support@pipe.dev
-- APIステータス: https://status.pipe.dev
+- 開発者フォーラム: 
+- サポートメール: 
+- APIステータス: 
 
 ---
 
